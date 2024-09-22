@@ -58,7 +58,7 @@ function IndexHeader() {
           }}
         />
         <h6 className="category category-absolute">
-          Designed and coded by{" "}
+          Designed and coded by me
           <a
             href="https://www.creative-tim.com?ref=pkr-index-page"
             target="_blank"
